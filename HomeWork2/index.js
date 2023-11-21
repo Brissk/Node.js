@@ -39,4 +39,3 @@ console.log(lettersNumbersSymbolsParol(8));
 
 module.exports = { lettersParol, lettersNumbersParol, lettersNumbersSymbolsParol }
 
-// "repository": "https://github.com/Brissk/Node.js/tree/master/HomeWork2"

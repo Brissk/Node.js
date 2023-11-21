@@ -33,9 +33,5 @@ function lettersNumbersSymbolsParol(parolLength) {
     return result;
 }
 
-console.log(lettersParol(8));
-console.log(lettersNumbersParol(8));
-console.log(lettersNumbersSymbolsParol(8));
-
 module.exports = { lettersParol, lettersNumbersParol, lettersNumbersSymbolsParol }
 

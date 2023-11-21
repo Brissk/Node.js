@@ -1,8 +1,8 @@
 {
-  "name": "homework2",
+  "name": "random_parols_package",
   "version": "1.0.0",
   "description": "",
-  "main": "randomParols.js",
+  "main": "index.js",
   "scripts": {
     "start": "node ./index.js"
   },
